@@ -5,21 +5,14 @@ from AbhiModszYT import BOT_USERNAME, OWNER
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GRP}"),
-    ],
-    [
         InlineKeyboardButton(
             text=" ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs", callback_data="HELP"),
-    ],
-    [
-        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="SOURCE"),
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="ABOUT"),
     ],
 ]
 
