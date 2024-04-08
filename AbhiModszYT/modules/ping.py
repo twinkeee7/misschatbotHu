@@ -1,5 +1,5 @@
-# Don't remove This Line From Here. Tg: AM_YTBott
-# Github :- AbhiModszYT
+# Don't remove This Line From Here.
+# Telegram :- AimXD
 
 import random
 from datetime import datetime
