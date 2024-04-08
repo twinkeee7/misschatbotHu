@@ -21,7 +21,7 @@ async def ping(_, message: Message):
     start = datetime.now()
     loda = await message.reply_photo(
         photo=random.choice(IMG),
-        caption="𝙋𝙞𝙣𝙜 𝙋𝙤𝙣𝙜...",
+        caption="ᴘɪɴɢ ᴘᴏɴɢ...",
     )
     try:
         await message.delete()
@@ -30,7 +30,7 @@ async def ping(_, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"𝙃𝙚𝙮 𝘽𝙪𝙙𝙙𝙮!!\n{BOT_NAME} 𝙄𝙨 𝘼𝙡𝙞𝙫𝙚 𝘼𝙣𝙙 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙁𝙞𝙣𝙚 𝙒𝙞𝙩𝙝 𝙋𝙞𝙣𝙜 𝙊𝙛 \n➥ `{ms}` ms\n\n<b>|| 𝙈𝙖𝙙𝙚 ✨ 𝘽𝙮 [𝘿𝙚𝙫𝙡𝙤𝙫𝙚𝙥𝙚𝙧](https://t.me/{OWNER_USERNAME}) ||</b>",
+        text=f"нey вαву!!\n{BOT_NAME} ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n➥ `{ms}` ms\n\n<b>|| мαdє ωιтн ❣️ ву [AɪᴍX](https://t.me/{OWNER_USERNAME}) ||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
