@@ -108,7 +108,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/FUKRA_DEMON"),
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="HELP"),
     ],
     [
@@ -116,7 +116,7 @@ ABOUT_BTN = [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{Babe_bot_update}"),
         InlineKeyboardButton(text="◁", callback_data="BACK"),
     ],
 ]
