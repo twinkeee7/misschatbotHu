@@ -2,7 +2,7 @@
     ──「 AMBOT 」──
 </h2>
 <p align="center">
-  <img src="https://telegra.ph/file/00eb565274ccbffcf149d.jpg">
+  <img src="https://telegra.ph//file/a9e8e650ac5b49d504902.jpg">
 </p>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/codebitey/Neha/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Sunnykumar1122/misschatbot/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
@@ -41,10 +41,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/AimXsupport"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/AimXbots"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/babe_bot_update"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/Fushii_warr"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/codebitey/Neha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codebitey&repo=Neha&theme=chartreuse-dark"></a>
+<a href="https://github.com/Sunnykumar1122/misschatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnykumar1122&repo=misschatbot &theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
