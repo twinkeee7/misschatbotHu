@@ -1,4 +1,4 @@
-from pyrogram.types import InlineKeyboardButton
+Jofrom pyrogram.types import InlineKeyboardButton
 
 from config import SUPPORT_GRP, UPDATE_CHNL
 from AbhiModszYT import BOT_USERNAME, OWNER
@@ -116,7 +116,7 @@ ABOUT_BTN = [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{Babe_bot_update}"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Babe_bot_update"),
         InlineKeyboardButton(text="◁", callback_data="BACK"),
     ],
 ]
