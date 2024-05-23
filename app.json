@@ -1,7 +1,7 @@
 {
   "name": "AMBOT",
   "description": "A telegram bot",
-  "logo": "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
+  "logo": "https://telegra.ph//file/a9e8e650ac5b49d504902.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/codebitey/Neha",
+  "repository": "https://github.com/Sunnykumar1122/misschatbot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
