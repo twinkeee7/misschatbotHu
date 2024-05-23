@@ -1,4 +1,4 @@
-Jofrom pyrogram.types import InlineKeyboardButton
+from pyrogram.types import InlineKeyboardButton
 
 from config import SUPPORT_GRP, UPDATE_CHNL
 from AbhiModszYT import BOT_USERNAME, OWNER
