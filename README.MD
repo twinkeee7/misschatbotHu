@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 AMBOT 」──
+    ──「 BABYBOT 」──
 </h2>
 <p align="center">
   <img src="https://telegra.ph//file/a9e8e650ac5b49d504902.jpg">
