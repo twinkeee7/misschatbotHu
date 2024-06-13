@@ -108,11 +108,11 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/babe_bot_update"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/DEMON_BOT_SUPPORT"),
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/ll_ROLEX_lll"),
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="SOURCE"),
     ],
     [
