@@ -7,11 +7,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", ""))
+OWNER_ID = int(getenv("OWNER_ID", "6718764653"))
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DEMON_BOT_SUPPORT")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_ROLEX_lll")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "@Riseeuniversee")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@SupremeXlevel")
 
 # Random Start Images
 IMG = [
@@ -38,7 +38,9 @@ IMG = [
 STICKER = [
     "CAACAgEAAxkBAAIJomRdLhVJVebkx0JRsp1STwTv3t3eAAJrAgAClpxhRD4z4bgqlIF0LwQ",
     "CAACAgUAAxkBAAIJo2RdLhjLjCpmPipMT8ksrqwUjGAIAAK1BQACLZ8oVFVNmhalU8eOLwQ",
-    "CAACAgUAAxkBAAIJpGRdLkpU7t2WDj9zUFgCJ5uHUdGHAALTBAAC59CYV3t9x-f0tt4OLwQ",
+    "https://t.me/addstickers/qdee8cWX_by_stickerskibot"
+    "https://t.me/addstickers/a6718764653_by_Japanesexmanagement_bot"
+    ,
 ]
 
 
