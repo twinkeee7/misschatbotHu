@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 BABYBOT 」──
+    ──「 Rᴀᴅʜᴀ 」──
 </h2>
 <p align="center">
-  <img src="https://telegra.ph//file/a9e8e650ac5b49d504902.jpg">
+  <img src="https://graph.org/file/ca07e2c89c1158637ed39.jpg">
 </p>
 
 <h3 align="center">
